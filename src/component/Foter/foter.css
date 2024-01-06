@@ -1,0 +1,124 @@
+.foter {
+    width: 90%;
+    color: white;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    height: 500px;
+    justify-content: center;
+}
+
+.log {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.log h6 {
+    margin-top: 30px;
+    font-size: 15px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+.logs {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.logs img {
+    width: 20%;
+}
+
+.B {
+    width: 15%;
+    height: 40px;
+    background-color: #ff8a00;
+    color: white;
+    font-size: 30px;
+    border-radius: 100%;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.B span {
+    width: 100%;
+}
+
+.deliz {
+    margin-left: 20px;
+    font-size: 25px;
+    color: black;
+}
+
+.deliz p {
+    color: white;
+}
+
+.deliz p span {
+    color: #ff8a00;
+}
+
+.page {
+    width: 7.1%;
+    background-color: gray;
+    flex-wrap: wrap;
+    display: flex;
+    text-align: center;
+    margin: 5%;
+}
+
+.a {
+    width: 100%;
+    display: flex;
+    background-color: red;
+}
+
+.page p {}
+
+.page a {
+    margin-bottom: 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.Information {
+    width: 20%;
+    margin: 5%;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.Information p {}
+
+.Information a {
+    text-decoration: none;
+    color: white;
+}
+
+.Get-in-touch {
+    width: 20%;
+    margin: 5%;
+    background-color: blue;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Get-in-touch p {}
+
+.Get-in-touch a {
+    text-decoration: none;
+    color: white;
+}

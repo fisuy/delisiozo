@@ -1,0 +1,89 @@
+.reserve {
+    width: 100%;
+    margin-top: 150px;
+    background-color: #faf8f5;
+    color: black;
+    position: relative;
+    height: 950px;
+}
+
+.top-img {
+    position: absolute;
+    left: 38%;
+    top: 13%;
+    width: 10%;
+}
+
+.top-img img {
+    border: 15px solid #f1e8db;
+    border-radius: 1000px;
+    width: 100%;
+}
+
+.bottom-img {
+    position: absolute;
+    left: 5%;
+    top: 80%;
+    width: 10%;
+}
+
+.bottom-img img {
+    border: 15px solid #f1e8db;
+    border-radius: 1000px;
+    width: 100%;
+}
+
+.table {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-reserve {
+    width: 40%;
+    margin-top: 200px;
+    border: 50px solid #f1e8db;
+    border-radius: 1000px;
+}
+
+.left-reserve img {
+    width: 100%;
+}
+
+.right-reserve {
+    width: 40%;
+    margin-top: 230px;
+    font-size: 25px;
+}
+
+.right-reserve h1 {
+    width: 65%;
+    margin-bottom: 50px;
+}
+
+.right-reserve h1 span {
+    color: #ff8a00;
+}
+
+.right-reserve p {
+    width: 70%;
+    font-size: 18px;
+    color: #705c42;
+    line-height: 33px;
+    margin-bottom: 100px;
+}
+
+.right-reserve button {
+    width: 30%;
+    padding: 19px 8px;
+    border-radius: 10000px;
+    font-size: 15px;
+    color: white;
+    background-color: #ff8a00;
+    border: 0;
+    transition: 0.8s;
+}
+
+.right-reserve button:hover {
+    box-shadow: -1px 0px 31px 14px rgba(255, 138, 0, 0.75);
+}

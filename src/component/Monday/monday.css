@@ -1,0 +1,77 @@
+.monday-sunday {
+    width: 100%;
+    margin: 200px auto;
+    text-align: center;
+    position: relative;
+}
+
+.monday-sunday img {
+    width: 85%;
+    border-radius: 150px;
+}
+
+.sunday {
+    position: absolute;
+    z-index: 1;
+    top: 10%;
+    left: 28%;
+    color: white;
+}
+
+.sunday h1 {
+    font-size: 65px;
+    margin-bottom: 40px;
+}
+
+.sunday h2 {
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+
+.sunday h3 {
+    color: #c0c0c0;
+    margin-bottom: 20px;
+}
+
+.sunday h4 {
+    color: #c0c0c0;
+    font-size: 18px;
+    margin-left: 170px;
+}
+
+.sunday-2 {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.sunday-2 button {
+    padding: 17px 60px;
+    color: #fff;
+    font-size: 20px;
+    background-color: #ff8a00;
+    border: 0;
+    border-radius: 10000px;
+    font-weight: 600;
+    line-height: 200%;
+    transition: 1s;
+}
+
+.sunday-2 button:nth-child(2) {
+    background-color: #f6f2f2;
+    color: black;
+}
+
+.sunday-2 button:hover:nth-child(2) {
+    background-color: gray;
+    color: white;
+}
+
+.sunday-2 button:hover:nth-child(2) {
+    box-shadow: -2px -1px 23px 24px rgba(167, 152, 152, 0.55);
+}
+
+.sunday-2 button:hover {
+    box-shadow: -1px 0px 31px 14px rgba(255, 138, 0, 0.75);
+}

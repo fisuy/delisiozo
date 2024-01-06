@@ -1,0 +1,35 @@
+.navigation {
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    top: 0;
+    z-index: 100;
+    justify-content: space-between;
+    height: 120px;
+    color: white;
+    background-color: white;
+}
+
+.ul {
+    width: 60%;
+    margin-top: 30px;
+    display: flex;
+    color: white;
+    list-style-type: none;
+    align-items: center;
+    font-size: 14px;
+}
+
+.ul li {
+    width: 100%;
+}
+
+.ul a {
+    text-decoration: none;
+    color: black;
+}
+
+.ul a.active {
+    color: #ff8a00;
+}

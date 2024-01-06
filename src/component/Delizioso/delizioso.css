@@ -1,0 +1,55 @@
+.delizioso {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #ecf9f0;
+    justify-content: space-between;
+}
+
+.left-delizi {
+    width: 45%;
+    margin-top: 100px;
+}
+
+.left-delizi img {
+    width: 100%;
+}
+
+.right-delizi {
+    width: 40%;
+    height: 600px;
+    margin-top: 100px;
+}
+
+.right-delizi h1 {
+    width: 60%;
+    font-size: 50px;
+}
+
+.right-delizi h1 span {
+    color: darkorange;
+}
+
+.right-delizi p {
+    width: 65%;
+    color: #5c4529;
+    margin-top: 40px;
+    line-height: 35px;
+    font-size: 17px;
+}
+
+.right-delizi button {
+    width: 30%;
+    padding: 19px 8px;
+    margin-top: 150px;
+    border-radius: 10000px;
+    font-size: 15px;
+    color: white;
+    background-color: #ff8a00;
+    border: 0;
+    transition: 0.8s;
+}
+
+.right-delizi button:hover {
+    box-shadow: -1px 0px 31px 14px rgba(255, 138, 0, 0.75);
+}

@@ -1,0 +1,158 @@
+.customer {
+    width: 100%;
+    background-color: rgb(246, 244, 244);
+    color: black;
+    margin-top: 200px;
+    position: relative;
+    height: 1000px;
+}
+
+.ellips-1 {
+    width: 70px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+.ellips-1 img {
+    width: 100%;
+}
+
+.ellips-2 {
+    width: 40px;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+}
+
+.ellips-2 img {
+    width: 100%;
+}
+
+.ellips-3 {
+    width: 35px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.ellips-3 img {
+    width: 100%;
+}
+
+.ellips-4 {
+    width: 70px;
+    position: absolute;
+    top: 37%;
+    left: 65%;
+}
+
+.ellips-4 img {
+    width: 100%;
+}
+
+.ellips-5 {
+    width: 47px;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+}
+
+.ellips-5 img {
+    width: 100%;
+}
+
+.ellips-6 {
+    width: 47px;
+    position: absolute;
+    top: 43%;
+    right: 0%;
+}
+
+.ellips-6 img {
+    width: 100%;
+}
+
+.ellips-7 {
+    width: 53px;
+    position: absolute;
+    top: 53%;
+    right: 56%;
+}
+
+.ellips-7 img {
+    width: 100%;
+}
+
+.ellips-8 {
+    width: 40px;
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+}
+
+.ellips-8 img {
+    width: 100%;
+}
+
+.ellips-9 {
+    width: 40px;
+    position: absolute;
+    bottom: 10%;
+    left: 25%;
+}
+
+.ellips-9 img {
+    width: 100%;
+}
+
+.center-customer {
+    text-align: center;
+    margin-top: 100px;
+    /* background-color: red; */
+}
+
+.center-customer h1 {
+    font-size: 50px;
+    margin-bottom: 70px;
+}
+
+.center-customer img {
+    width: 15%;
+    margin-bottom: 30px;
+}
+
+.center-customer h2 {
+    margin-bottom: 20px;
+}
+
+.vergul {
+    width: 30%;
+    position: relative;
+    margin: auto;
+    margin-top: 30px;
+    line-height: 30px;
+    color: #978977;
+}
+
+.vergul-1 img,
+.vergul-2 img {
+    width: 100%;
+}
+
+.vergul-1,
+.vergul-2 {
+    width: 30px;
+}
+
+.vergul-1 {
+    position: absolute;
+    bottom: 70%;
+    right: 100%;
+}
+
+.vergul-2 {
+    position: absolute;
+    top: 90%;
+    left: 100%;
+}

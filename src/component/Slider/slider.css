@@ -1,0 +1,43 @@
+.swiper {
+    width: 100%;
+    position: relative;
+}
+
+
+/* .first {
+    position: absolute;
+    z-index: 1;
+    width: 90%;
+}
+
+.first img {
+    width: 100%;
+}
+
+.second {
+    position: absolute;
+    z-index: 2;
+    width: 90%;
+}
+
+.second img {
+    width: 100%;
+} */
+
+.swiper-slide {
+    box-shadow: transparent inset;
+    box-shadow: block;
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    margin: 3%;
+}
+
+.swiper-slide img {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999999px;
+    width: 100%;
+}

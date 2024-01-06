@@ -1,0 +1,35 @@
+.logo {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.D {
+    width: 21%;
+    height: 64px;
+    background-color: #ff8a00;
+    color: white;
+    font-size: 30px;
+    border-radius: 100%;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.delizi {
+    margin-left: 20px;
+    font-size: 25px;
+    color: black;
+}
+
+.delizi p {
+    color: black;
+}
+
+.delizi p span {
+    color: #ff8a00;
+}

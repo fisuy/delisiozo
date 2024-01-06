@@ -1,0 +1,55 @@
+.button {
+    width: 20%;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.cart {
+    padding: 15px;
+    background-color: #d0ccc7;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.log {
+    width: 100%;
+}
+
+.log button {
+    font-size: 20px;
+    border: 0;
+    padding: 15px 35px;
+    margin-bottom: 30px;
+    display: flex;
+    font-weight: 600;
+    border-radius: 50px;
+    background-color: #3fa72f;
+    color: white;
+}
+
+.dot {
+    position: absolute;
+    top: -8px;
+    right: -5px;
+    background-color: red;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.number {
+    color: #fff;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

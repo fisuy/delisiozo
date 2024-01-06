@@ -1,0 +1,78 @@
+.hero {
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.restaurant {
+    width: 15%;
+    background-color: #ffe8cc;
+    border: 0;
+    border-radius: 99999px;
+    padding: 10px 5px;
+    color: #ff8a00;
+    font-size: 15px;
+}
+
+.left-hero h1 {
+    width: 31%;
+    font-size: 45px;
+    margin-left: 10px;
+    margin-top: 20px;
+    color: black;
+}
+
+.left-hero p {
+    width: 51%;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: #5c4529;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 200%;
+    /* 40px */
+}
+
+.button-2 {
+    margin-top: 120px;
+    display: flex;
+    margin-left: 10px;
+    gap: 30px;
+}
+
+.button-2 button:nth-child(2) {
+    background-color: #3fa72f;
+}
+
+.button-2 button:hover:nth-child(2) {
+    box-shadow: -1px 0px 31px 14px rgba(63, 167, 47, 0.75);
+}
+
+.button-2 button {
+    padding: 17px 60px;
+    color: #fff;
+    font-size: 20px;
+    background-color: #ff8a00;
+    border: 0;
+    border-radius: 10000px;
+    font-weight: 600;
+    line-height: 200%;
+    transition: 0.8s;
+    /* 40px */
+}
+
+.button-2 button:hover {
+    box-shadow: -1px 0px 31px 14px rgba(255, 138, 0, 0.75);
+}
+
+.right-hero {
+    width: 45%;
+}
+
+.right-hero img {
+    width: 100%;
+}
